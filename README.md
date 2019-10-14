@@ -10,3 +10,5 @@ tags:
 - pascal
 other: 
 ---
+yaquimas: cosas
+aversi: parsea
